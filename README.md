@@ -1,6 +1,6 @@
-# woocommerce-dl-fix
-![cover](https://ps.w.org/regenerate-download-permissions-for-orders/assets/banner-1544x500.png?rev=2782656)
-
+# Regenerate Download Permissions for Orders
+[![cover](https://ps.w.org/regenerate-download-permissions-for-orders/assets/banner-1544x500.png?rev=2782656)](https://wordpress.org/plugins/regenerate-download-permissions-for-orders/)
+### [wordpress plugin page](https://wordpress.org/plugins/regenerate-download-permissions-for-orders/)
 ## Description
 
 When someone submits an order in woocommerce,
